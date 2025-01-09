@@ -27,7 +27,6 @@ Donation and Charity Management System/
 ├── backend/
 │   ├── node_modules/
 │   ├── uploads/
-│   ├── .env
 │   ├── package-lock.json
 │   ├── package.json
 │   └── server.js
@@ -35,7 +34,6 @@ Donation and Charity Management System/
     ├── node_modules/
     ├── public/
     ├── src/
-    ├── .gitignore
     ├── eslint.config.js
     ├── index.html
     ├── package-lock.json
@@ -119,5 +117,6 @@ Donation and Charity Management System/
 
 ## Author
 
-Your Name
-Your Contact Information
+Farida Louai
+Hana hany
+Ziad Amr
