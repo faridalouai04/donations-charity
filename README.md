@@ -117,7 +117,7 @@ Donation and Charity Management System/
 
 ---
 
-## Author
+## Authors
 
 Farida Louai
 Hana Hany
